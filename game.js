@@ -11,6 +11,8 @@ let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
 
+//i always do this!!
+
 let questions = [
     {
         question: "What does HTML stand for?",
